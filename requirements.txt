@@ -1,0 +1,10 @@
+jax
+jaxlib
+numpy
+numpyro
+scipy
+pandas
+matplotlib
+seaborn
+ete3
+biopython

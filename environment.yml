@@ -1,0 +1,14 @@
+name: phylojax
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - jax
+  - jaxlib
+  - numpyro
+  - matplotlib
+  - pandas
+  - seaborn
+  - ete3
+  - biopython

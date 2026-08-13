@@ -1,0 +1,274 @@
+,feature_group,functional_feature_group,feature_name,functional_feature_group_long,feature_name_long,category,resistance,type,feature_group_long,feature_group_category,category_short,feature_group_category_short,count_(%),resistance_class,sequence_name,amrfinder+_type,pastml,count_cutoff_pass
+0,BlaKPC,BlaKPC,blaKPC-2,BlaKPC_AMR,blaKPC-2_AMR,AMR,Beta-Lactam (Carbapenem),Gene,BlaKPC_AMR,AMR,AMR,AMR,14 (1.6),Beta-Lactam (Carbapenem),carbapenem-hydrolyzing class A beta-lactamase KPC-2,AMR,BlaKPC_AMR,True
+1,BlaKPC,BlaKPC,blaKPC-3,BlaKPC_AMR,blaKPC-3_AMR,AMR,Beta-Lactam (Carbapenem),Gene,BlaKPC_AMR,AMR,AMR,AMR,12 (1.4),Beta-Lactam (Carbapenem),carbapenem-hydrolyzing class A beta-lactamase KPC-3,AMR,BlaKPC_AMR,True
+2,BlaKPC,BlaKPC,blaKPC-4,BlaKPC_AMR,blaKPC-4_AMR,AMR,Beta-Lactam (Carbapenem),Gene,BlaKPC_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Carbapenem),carbapenem-hydrolyzing class A beta-lactamase KPC-4,AMR,BlaKPC_AMR,True
+3,Col,Col,Col(BS512),Col_PLASMID,Col(BS512)_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,127 (14.3),,,,Col_PLASMID,True
+4,Col,Col,Col(KPHS6),Col_PLASMID,Col(KPHS6)_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,4 (0.5),,,,Col_PLASMID,True
+5,Col,Col,Col(MP18),Col_PLASMID,Col(MP18)_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,4 (0.5),,,,Col_PLASMID,True
+6,Col,Col,Col(pHAD28),Col_PLASMID,Col(pHAD28)_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,Col_PLASMID,True
+7,Col,Col,Col156,Col_PLASMID,Col156_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,407 (45.8),,,,Col_PLASMID,True
+8,Col,Col,Col440II,Col_PLASMID,Col440II_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,Col_PLASMID,True
+9,Col,Col,Col8282,Col_PLASMID,Col8282_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,Col_PLASMID,True
+10,Col,Col,ColKP3,Col_PLASMID,ColKP3_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,0 (0),,,,Col_PLASMID,True
+11,Col,Col,ColRNAI,Col_PLASMID,ColRNAI_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,5 (0.6),,,,Col_PLASMID,True
+12,Col,Col,ColpVC,Col_PLASMID,ColpVC_PLASMID,Plasmid,,,Col_PLASMID,Plasmid,PLASMID,PLASMID,6 (0.7),,,,Col_PLASMID,True
+13,IncB/O/K/Z,IncB/O/K/Z,IncB/O/K/Z,IncB/O/K/Z_PLASMID,IncB/O/K/Z_PLASMID,Plasmid,,,IncB/O/K/Z_PLASMID,Plasmid,PLASMID,PLASMID,13 (1.5),,,,IncBOKZ_PLASMID,True
+14,IncC,IncC,IncC,IncC_PLASMID,IncC_PLASMID,Plasmid,,,IncC_PLASMID,Plasmid,PLASMID,PLASMID,10 (1.1),,,,IncC_PLASMID,True
+15,IncFIA,IncFIA,FIA(pBK30683),IncFIA_PLASMID,FIA(pBK30683)_PLASMID,Plasmid,,,IncFIA_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,IncFIA_PLASMID,True
+16,IncFIA,IncFIA,IncFIA,IncFIA_PLASMID,IncFIA_PLASMID,Plasmid,,,IncFIA_PLASMID,Plasmid,PLASMID,PLASMID,633 (71.3),,,,IncFIA_PLASMID,True
+17,IncFIA,IncFIA,IncFIA(HI1),IncFIA_PLASMID,IncFIA(HI1)_PLASMID,Plasmid,,,IncFIA_PLASMID,Plasmid,PLASMID,PLASMID,11 (1.2),,,,IncFIA_PLASMID,True
+18,IncFIB,IncFIB,IncFIB(AP001918),IncFIB_PLASMID,IncFIB(AP001918)_PLASMID,Plasmid,,,IncFIB_PLASMID,Plasmid,PLASMID,PLASMID,173 (19.5),,,,IncFIB_PLASMID,True
+19,IncFIB,IncFIB,IncFIB(H89-PhagePlasmid),IncFIB_PLASMID,IncFIB(H89-PhagePlasmid)_PLASMID,Plasmid,,,IncFIB_PLASMID,Plasmid,PLASMID,PLASMID,27 (3.0),,,,IncFIB_PLASMID,True
+20,IncFIB,IncFIB,IncFIB(pB171),IncFIB_PLASMID,IncFIB(pB171)_PLASMID,Plasmid,,,IncFIB_PLASMID,Plasmid,PLASMID,PLASMID,8 (0.9),,,,IncFIB_PLASMID,True
+21,IncFIB,IncFIB,IncFIB(pLF82-PhagePlasmid),IncFIB_PLASMID,IncFIB(pLF82-PhagePlasmid)_PLASMID,Plasmid,,,IncFIB_PLASMID,Plasmid,PLASMID,PLASMID,3 (0.3),,,,IncFIB_PLASMID,True
+22,IncFIB,IncFIB,IncFIB(pNDM-Mar),IncFIB_PLASMID,IncFIB(pNDM-Mar)_PLASMID,Plasmid,,,IncFIB_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,IncFIB_PLASMID,True
+23,IncFIB,IncFIB,IncFIB(pQil),IncFIB_PLASMID,IncFIB(pQil)_PLASMID,Plasmid,,,IncFIB_PLASMID,Plasmid,PLASMID,PLASMID,9 (1.0),,,,IncFIB_PLASMID,True
+24,IncFII,IncFII,IncFII,IncFII_PLASMID,IncFII_PLASMID,Plasmid,,,IncFII_PLASMID,Plasmid,PLASMID,PLASMID,239 (26.9),,,,IncFII_PLASMID,True
+25,IncFII,IncFII,IncFII(29),IncFII_PLASMID,IncFII(29)_PLASMID,Plasmid,,,IncFII_PLASMID,Plasmid,PLASMID,PLASMID,149 (16.8),,,,IncFII_PLASMID,True
+26,IncFII,IncFII,IncFII(pCoo),IncFII_PLASMID,IncFII(pCoo)_PLASMID,Plasmid,,,IncFII_PLASMID,Plasmid,PLASMID,PLASMID,2 (0.2),,,,IncFII_PLASMID,True
+27,IncFII,IncFII,IncFII(pHN7A8),IncFII_PLASMID,IncFII(pHN7A8)_PLASMID,Plasmid,,,IncFII_PLASMID,Plasmid,PLASMID,PLASMID,2 (0.2),,,,IncFII_PLASMID,True
+28,IncFII,IncFII,IncFII(pRSB107),IncFII_PLASMID,IncFII(pRSB107)_PLASMID,Plasmid,,,IncFII_PLASMID,Plasmid,PLASMID,PLASMID,318 (35.8),,,,IncFII_PLASMID,True
+29,IncFII,IncFII,IncFII(pSE11),IncFII_PLASMID,IncFII(pSE11)_PLASMID,Plasmid,,,IncFII_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,IncFII_PLASMID,True
+30,IncHI+terD,IncHI,IncHI1B(pNDM-MAR),IncHI_PLASMID,IncHI1B(pNDM-MAR)_PLASMID,Plasmid,,,IncHI+terD_PLASMID/STRESS,Plasmid/Stress,PLASMID,PLASMID/STRESS,1 (0.1),,,,,False
+31,IncHI+terD,IncHI,IncHI2,IncHI_PLASMID,IncHI2_PLASMID,Plasmid,,,IncHI+terD_PLASMID/STRESS,Plasmid/Stress,PLASMID,PLASMID/STRESS,1 (0.1),,,,,False
+32,IncHI+terD,IncHI,IncHI2A,IncHI_PLASMID,IncHI2A_PLASMID,Plasmid,,,IncHI+terD_PLASMID/STRESS,Plasmid/Stress,PLASMID,PLASMID/STRESS,1 (0.1),,,,,False
+33,IncHI+terD,terD,terD,terD_STRESS,terD_STRESS,Stress,Tellurium,Metal,IncHI+terD_PLASMID/STRESS,Plasmid/Stress,STRESS,PLASMID/STRESS,2 (0.2),Tellurium,tellurium resistance membrane protein TerD,Stress (Metal),,False
+34,IncI,IncI,IncI(Gamma),IncI_PLASMID,IncI(Gamma)_PLASMID,Plasmid,,,IncI_PLASMID,Plasmid,PLASMID,PLASMID,3 (0.3),,,,IncI_PLASMID,True
+35,IncI,IncI,IncI1-I(Alpha),IncI_PLASMID,IncI1-I(Alpha)_PLASMID,Plasmid,,,IncI_PLASMID,Plasmid,PLASMID,PLASMID,54 (6.1),,,,IncI_PLASMID,True
+36,IncI,IncI,IncI2,IncI_PLASMID,IncI2_PLASMID,Plasmid,,,IncI_PLASMID,Plasmid,PLASMID,PLASMID,3 (0.3),,,,IncI_PLASMID,True
+37,IncI,IncI,IncI2(Delta),IncI_PLASMID,IncI2(Delta)_PLASMID,Plasmid,,,IncI_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,IncI_PLASMID,True
+38,IncN,IncN,IncN,IncN_PLASMID,IncN_PLASMID,Plasmid,,,IncN_PLASMID,Plasmid,PLASMID,PLASMID,43 (4.8),,,,IncN_PLASMID,True
+39,IncN,IncN,IncN2,IncN_PLASMID,IncN2_PLASMID,Plasmid,,,IncN_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,IncN_PLASMID,True
+40,IncP6,IncP6,IncP6,IncP6_PLASMID,IncP6_PLASMID,Plasmid,,,IncP6_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,,False
+41,IncQ1,IncQ1,IncQ1,IncQ1_PLASMID,IncQ1_PLASMID,Plasmid,,,IncQ1_PLASMID,Plasmid,PLASMID,PLASMID,2 (0.2),,,,IncQ1_PLASMID,True
+42,IncR,IncR,IncR,IncR_PLASMID,IncR_PLASMID,Plasmid,,,IncR_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,,False
+43,IncX,IncX,IncX1,IncX_PLASMID,IncX1_PLASMID,Plasmid,,,IncX_PLASMID,Plasmid,PLASMID,PLASMID,16 (1.8),,,,IncX_PLASMID,True
+44,IncX,IncX,IncX3,IncX_PLASMID,IncX3_PLASMID,Plasmid,,,IncX_PLASMID,Plasmid,PLASMID,PLASMID,2 (0.2),,,,IncX_PLASMID,True
+45,IncX,IncX,IncX4,IncX_PLASMID,IncX4_PLASMID,Plasmid,,,IncX_PLASMID,Plasmid,PLASMID,PLASMID,40 (4.5),,,,IncX_PLASMID,True
+46,IncY,IncY,IncY,IncY_PLASMID,IncY_PLASMID,Plasmid,,,IncY_PLASMID,Plasmid,PLASMID,PLASMID,49 (5.5),,,,IncY_PLASMID,True
+47,aac(3),aac(3),aac(3)-IId,aac(3)_AMR,aac(3)-IId_AMR,AMR,Aminoglycoside (Gentamicin),Gene,aac(3)_AMR,AMR,AMR,AMR,150 (16.9),Aminoglycoside (Gentamicin),aminoglycoside N-acetyltransferase AAC(3)-IId,AMR,aac3_AMR,True
+48,aac(3),aac(3),aac(3)-IIe,aac(3)_AMR,aac(3)-IIe_AMR,AMR,Aminoglycoside (Gentamicin),Gene,aac(3)_AMR,AMR,AMR,AMR,148 (16.7),Aminoglycoside (Gentamicin),aminoglycoside N-acetyltransferase AAC(3)-IIe,AMR,aac3_AMR,True
+49,aac(3),aac(3),aac(3)-Ib,aac(3)_AMR,aac(3)-Ib_AMR,AMR,Aminoglycoside (Gentamicin),Gene,aac(3)_AMR,AMR,AMR,AMR,1 (0.1),Aminoglycoside (Gentamicin),aminoglycoside N-acetyltransferase AAC(3)-Ib,AMR,aac3_AMR,True
+50,aac(3),aac(3),aac(3)-VIa,aac(3)_AMR,aac(3)-VIa_AMR,AMR,Aminoglycoside (Gentamicin),Gene,aac(3)_AMR,AMR,AMR,AMR,1 (0.1),Aminoglycoside (Gentamicin),aminoglycoside N-acetyltransferase AAC(3)-VIa,AMR,aac3_AMR,True
+51,aac(6'),aac(6'),aac(6')-Ib,aac(6')_AMR,aac(6')-Ib_AMR,AMR,Aminoglycoside (Amikacin/Kanamycin/Tobramycin),Gene,aac(6')_AMR,AMR,AMR,AMR,1 (0.1),Aminoglycoside (Amikacin/Kanamycin/Tobramycin),AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase (aminoglycoside N-acetyltransferase AAC(6')-Ib3),AMR,aac6_AMR,True
+52,aac(6'),aac(6'),aac(6')-Ib3,aac(6')_AMR,aac(6')-Ib3_AMR,AMR,Aminoglycoside (Amikacin/Kanamycin/Tobramycin),Gene,aac(6')_AMR,AMR,AMR,AMR,3 (0.3),Aminoglycoside (Amikacin/Kanamycin/Tobramycin),aminoglycoside N-acetyltransferase AAC(6')-Ib3,AMR,aac6_AMR,True
+53,aac(6'),aac(6'),aac(6')-Il,aac(6')_AMR,aac(6')-Il_AMR,AMR,Aminoglycoside (Amikacin/Kanamycin/Tobramycin),Gene,aac(6')_AMR,AMR,AMR,AMR,3 (0.3),Aminoglycoside (Amikacin/Kanamycin/Tobramycin),aminoglycoside N-acetyltransferase AAC(6')-Il,AMR,aac6_AMR,True
+54,aac(6')-Ib-cr+blaOXA-OH,aac(6')-Ib-cr,aac(6')-Ib-cr,aac(6')-Ib-cr_AMR,aac(6')-Ib-cr_AMR,AMR,Aminoglycoside/Quinolone (Amikacin/Kanamycin/Quinolone/Tobramycin),Gene,aac(6')-Ib-cr+blaOXA-OH_AMR,AMR,AMR,AMR,0 (0),Aminoglycoside/Quinolone (Amikacin/Kanamycin/Quinolone/Tobramycin),fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr (fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr6),AMR,aac6IbcrblaOXAOH_AMR,True
+55,aac(6')-Ib-cr+blaOXA-OH,aac(6')-Ib-cr,aac(6')-Ib-cr5,aac(6')-Ib-cr_AMR,aac(6')-Ib-cr5_AMR,AMR,Aminoglycoside/Quinolone (Amikacin/Kanamycin/Quinolone/Tobramycin),Gene,aac(6')-Ib-cr+blaOXA-OH_AMR,AMR,AMR,AMR,239 (26.9),Aminoglycoside/Quinolone (Amikacin/Kanamycin/Quinolone/Tobramycin),fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5,AMR,aac6IbcrblaOXAOH_AMR,True
+56,aac(6')-Ib-cr+blaOXA-OH,blaOXA-OH,blaOXA-1,blaOXA-OH_AMR,blaOXA-1_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,aac(6')-Ib-cr+blaOXA-OH_AMR,AMR,AMR,AMR,245 (27.6),Beta-Lactam (Cephalosporin),oxacillin-hydrolyzing class D beta-lactamase OXA-1,AMR,aac6IbcrblaOXAOH_AMR,True
+57,aac(6')-Ib-cr+blaOXA-OH,blaOXA-OH,blaOXA-10,blaOXA-OH_AMR,blaOXA-10_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,aac(6')-Ib-cr+blaOXA-OH_AMR,AMR,AMR,AMR,3 (0.3),Beta-Lactam (Cephalosporin),oxacillin-hydrolyzing class D beta-lactamase OXA-10,AMR,aac6IbcrblaOXAOH_AMR,True
+58,aadA+qacE,aadA,aadA1,aadA_AMR,aadA1_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aadA+qacE_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,18 (2.0),Aminoglycoside (Streptomycin),ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1,AMR,aadAqacE_AMRSTRESS,True
+59,aadA+qacE,aadA,aadA16,aadA_AMR,aadA16_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aadA+qacE_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,1 (0.1),Aminoglycoside (Streptomycin),ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA16,AMR,aadAqacE_AMRSTRESS,True
+60,aadA+qacE,aadA,aadA2,aadA_AMR,aadA2_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aadA+qacE_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,76 (8.6),Aminoglycoside (Streptomycin),ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2,AMR,aadAqacE_AMRSTRESS,True
+61,aadA+qacE,aadA,aadA25,aadA_AMR,aadA25_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aadA+qacE_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,1 (0.1),Aminoglycoside (Streptomycin),ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA25,AMR,aadAqacE_AMRSTRESS,True
+62,aadA+qacE,aadA,aadA5,aadA_AMR,aadA5_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aadA+qacE_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,426 (48.0),Aminoglycoside (Streptomycin),ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5,AMR,aadAqacE_AMRSTRESS,True
+63,aadA+qacE,qacE,qacE,qacE_STRESS,qacE_STRESS,Stress,Quaternary Ammonium,Biocide,aadA+qacE_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Quaternary Ammonium,quaternary ammonium compound efflux SMR transporter QacE (quaternary ammonium compound efflux SMR transporter QacE delta 1),Stress (Biocide),aadAqacE_AMRSTRESS,True
+64,aadA+qacE,qacE,qacEdelta1,qacE_STRESS,qacEdelta1_STRESS,Stress,Quaternary Ammonium,Biocide,aadA+qacE_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,511 (57.5),Quaternary Ammonium,quaternary ammonium compound efflux SMR transporter QacE delta 1,Stress (Biocide),aadAqacE_AMRSTRESS,True
+65,aap,aap,aap,aap_VIR,aap_VIR,Virulence,,,aap_VIR,Virulence,VIR,VIR,6 (0.7),,dispersin Aap,Virulence,aap_VIR,True
+66,aar+aatA+agg3DCB+agg5A+aggR,aar,aar,aar_VIR,aar_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,AggR-activated transcriptional regulator Aar,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+67,aar+aatA+agg3DCB+agg5A+aggR,aatA,aatA,aatA_VIR,aatA_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,dispersin export ABC transporter outer membrane protein AatA,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+68,aar+aatA+agg3DCB+agg5A+aggR,agg3DCB,agg3B,agg3DCB_VIR,agg3B_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,aggregative adherence fimbria 3 minor subunit Agg3B,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+69,aar+aatA+agg3DCB+agg5A+aggR,agg3DCB,agg3C,agg3DCB_VIR,agg3C_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,aggregative adherence fimbria 3 usher protein Agg3C,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+70,aar+aatA+agg3DCB+agg5A+aggR,agg3DCB,agg3D,agg3DCB_VIR,agg3D_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,aggregative adherence fimbria 3 chaperone Agg3D,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+71,aar+aatA+agg3DCB+agg5A+aggR,agg5A,agg5A,agg5A_VIR,agg5A_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,aggregative adherence fimbria V major subunit Agg5A,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+72,aar+aatA+agg3DCB+agg5A+aggR,aggR,aggR,aggR_VIR,aggR_VIR,Virulence,,,aar+aatA+agg3DCB+agg5A+aggR_VIR,Virulence,VIR,VIR,5 (0.6),,aggregative adherence transcriptional regulator AggR,Virulence,aaraatAagg3DCBagg5AaggR_VIR,True
+73,acrB-R620C,acrB-R620C,acrB_R620C,acrB-R620C_AMR,acrB_R620C_AMR,AMR,Tetracycline (Tigecycline),Point,acrB-R620C_AMR,AMR,AMR,AMR,4 (0.5),Tetracycline (Tigecycline),Escherichia tigecycline resistant AcrB (multidrug efflux RND transporter permease subunit AcrB),AMR (Point),,False
+74,acrB-R717L,acrB-R717L,acrB_R717L,acrB-R717L_AMR,acrB_R717L_AMR,AMR,Macrolide (Azithromycin/Clarithromycin/Erythromycin),Point,acrB-R717L_AMR,AMR,AMR,AMR,3 (0.3),Macrolide (Azithromycin/Clarithromycin/Erythromycin),Escherichia azithromycin/clarithromycin/erythromycin resistant AcrB (multidrug efflux RND transporter permease subunit AcrB),AMR (Point),,False
+75,acrF,acrF,acrF,acrF_AMR,acrF_AMR,AMR,Efflux,Gene,acrF_AMR,AMR,AMR,AMR,878 (98.9),Efflux,multidrug efflux RND transporter permease subunit AcrF,AMR,acrF_AMR,True
+76,acrR-R45C,acrR-R45C,acrR_R45C,acrR-R45C_AMR,acrR_R45C_AMR,AMR,Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Point,acrR-R45C_AMR,AMR,AMR,AMR,1 (0.1),Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Escherichia ampicillin/chloramphenicol/quinolone/rifampin/tetracycline resistant AcrR (transcriptional regulator AcrR),AMR (Point),,False
+77,afaC+nfaE,afaC,afaC,afaC_VIR,afaC_VIR,Virulence,,,afaC+nfaE_VIR,Virulence,VIR,VIR,186 (20.9),,AfaC-I/III family usher protein,Virulence,afaCnfaE_VIR,True
+78,afaC+nfaE,nfaE,nfaE,nfaE_VIR,nfaE_VIR,Virulence,,,afaC+nfaE_VIR,Virulence,VIR,VIR,189 (21.3),,Dr family non-fimbrial adhesin I chaperone NfaE,Virulence,afaCnfaE_VIR,True
+79,ampC-C11T,ampC-C11T,ampC_C-11T,ampC-C11T_AMR,ampC_C-11T_AMR,AMR,Beta-Lactam (Cephalosporin),Point,ampC-C11T_AMR,AMR,AMR,AMR,2 (0.2),Beta-Lactam (Cephalosporin),Escherichia cephalosporin resistant ampC (ampC/blaEC promoter region),AMR (Point),,False
+80,ampC-T32A,ampC-T32A,ampC_T-32A,ampC-T32A_AMR,ampC_T-32A_AMR,AMR,Beta-Lactam (Cephalosporin),Point,ampC-T32A_AMR,AMR,AMR,AMR,6 (0.7),Beta-Lactam (Cephalosporin),Escherichia cephalosporin resistant ampC (ampC/blaEC promoter region),AMR (Point),ampCT32A_AMR,True
+81,ant(2'')-Ia,ant(2'')-Ia,ant(2'')-Ia,ant(2'')-Ia_AMR,ant(2'')-Ia_AMR,AMR,Aminoglycoside (Gentamicin/Kanamycin/Tobramycin),Gene,ant(2'')-Ia_AMR,AMR,AMR,AMR,5 (0.6),Aminoglycoside (Gentamicin/Kanamycin/Tobramycin),aminoglycoside nucleotidyltransferase ANT(2'')-Ia,AMR,ant2Ia_AMR,True
+82,aph(3'')-Ib,aph(3'')-Ib,aph(3'')-Ib,aph(3'')-Ib_AMR,aph(3'')-Ib_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aph(3'')-Ib_AMR,AMR,AMR,AMR,281 (31.6),Aminoglycoside (Streptomycin),aminoglycoside O-phosphotransferase APH(3'')-Ib,AMR,aph3Ib_AMR,True
+83,aph(3')-Ia,aph(3')-Ia,aph(3')-Ia,aph(3')-Ia_AMR,aph(3')-Ia_AMR,AMR,Aminoglycoside (Kanamycin),Gene,aph(3')-Ia_AMR,AMR,AMR,AMR,9 (1.0),Aminoglycoside (Kanamycin),aminoglycoside O-phosphotransferase APH(3')-Ia,AMR,aph3Ia_AMR,True
+84,aph(3')-VI+terB+terC+terE,aph(3')-VI,aph(3')-VI,aph(3')-VI_AMR,aph(3')-VI_AMR,AMR,Aminoglycoside (Amikacin/Kanamycin),Gene,aph(3')-VI+terB+terC+terE_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,1 (0.1),Aminoglycoside (Amikacin/Kanamycin),APH(3')-VI family aminoglycoside O-phosphotransferase,AMR,,False
+85,aph(3')-VI+terB+terC+terE,terB,terB,terB_STRESS,terB_STRESS,Stress,Tellurium,Metal,aph(3')-VI+terB+terC+terE_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Tellurium,tellurium resistance membrane protein TerB,Stress (Metal),,False
+86,aph(3')-VI+terB+terC+terE,terC,terC,terC_STRESS,terC_STRESS,Stress,Tellurium,Metal,aph(3')-VI+terB+terC+terE_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Tellurium,tellurium resistance membrane protein TerC,Stress (Metal),,False
+87,aph(3')-VI+terB+terC+terE,terE,terE,terE_STRESS,terE_STRESS,Stress,Tellurium,Metal,aph(3')-VI+terB+terC+terE_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Tellurium,tellurium resistance cAMP binding protein TerE,Stress (Metal),,False
+88,aph(6)-Id,aph(6)-Id,aph(6)-Id,aph(6)-Id_AMR,aph(6)-Id_AMR,AMR,Aminoglycoside (Streptomycin),Gene,aph(6)-Id_AMR,AMR,AMR,AMR,253 (28.5),Aminoglycoside (Streptomycin),aminoglycoside O-phosphotransferase APH(6)-Id,AMR,aph6Id_AMR,True
+89,arr,arr,arr,arr_AMR,arr_AMR,AMR,Rifamycin,Gene,arr_AMR,AMR,AMR,AMR,0 (0),Rifamycin,NAD(+)--rifampin ADP-ribosyltransferase (NAD(+)--rifampin ADP-ribosyltransferase Arr-2),AMR,,False
+90,arr,arr,arr-2,arr_AMR,arr-2_AMR,AMR,Rifamycin,Gene,arr_AMR,AMR,AMR,AMR,2 (0.2),Rifamycin,NAD(+)--rifampin ADP-ribosyltransferase Arr-2,AMR,,False
+91,arr,arr,arr-3,arr_AMR,arr-3_AMR,AMR,Rifamycin,Gene,arr_AMR,AMR,AMR,AMR,2 (0.2),Rifamycin,NAD(+)--rifampin ADP-ribosyltransferase Arr-3,AMR,,False
+92,astA,astA,astA,astA_VIR,astA_VIR,Virulence,,,astA_VIR,Virulence,VIR,VIR,31 (3.5),,heat-stable enterotoxin EAST1,Virulence,astA_VIR,True
+93,basR-G53S,basR-G53S,basR_G53S,basR-G53S_AMR,basR_G53S_AMR,AMR,Colistin,Point,basR-G53S_AMR,AMR,AMR,AMR,1 (0.1),Colistin,Escherichia colistin resistant BasR (two-component system response regulator BasR),AMR (Point),,False
+94,blaCARB-2,blaCARB-2,blaCARB-2,blaCARB-2_AMR,blaCARB-2_AMR,AMR,Beta-Lactam,Gene,blaCARB-2_AMR,AMR,AMR,AMR,2 (0.2),Beta-Lactam,PSE family carbenicillin-hydrolyzing class A beta-lactamase CARB-2,AMR,,False
+95,blaCMY,blaCMY,blaCMY,blaCMY_AMR,blaCMY_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCMY_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),CMY-2 family class C beta-lactamase (class C beta-lactamase CMY-2),AMR,blaCMY_AMR,True
+96,blaCMY,blaCMY,blaCMY-2,blaCMY_AMR,blaCMY-2_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCMY_AMR,AMR,AMR,AMR,8 (0.9),Beta-Lactam (Cephalosporin),class C beta-lactamase CMY-2,AMR,blaCMY_AMR,True
+97,blaCMY,blaCMY,blaCMY-6,blaCMY_AMR,blaCMY-6_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCMY_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),class C beta-lactamase CMY-6,AMR,blaCMY_AMR,True
+98,blaCTX-M,blaCTX-M,blaCTX-M,blaCTX-M_AMR,blaCTX-M_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M_AMR,AMR,AMR,AMR,7 (0.8),Beta-Lactam (Cephalosporin),CTX-M family extended-spectrum class A beta-lactamase (extended-spectrum class A beta-lactamase CTX-M-98),AMR,blaCTXM_AMR,True
+99,blaCTX-M-1,blaCTX-M-1,blaCTX-M-1,blaCTX-M-1_AMR,blaCTX-M-1_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-1_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-1,AMR,,False
+100,blaCTX-M-14,blaCTX-M-14,blaCTX-M-14,blaCTX-M-14_AMR,blaCTX-M-14_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-14_AMR,AMR,AMR,AMR,14 (1.6),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-14,AMR,blaCTXM14_AMR,True
+101,blaCTX-M-15,blaCTX-M-15,blaCTX-M-15,blaCTX-M-15_AMR,blaCTX-M-15_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-15_AMR,AMR,AMR,AMR,349 (39.3),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-15,AMR,blaCTXM15_AMR,True
+102,blaCTX-M-195,blaCTX-M-195,blaCTX-M-195,blaCTX-M-195_AMR,blaCTX-M-195_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-195_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-195,AMR,,False
+103,blaCTX-M-24,blaCTX-M-24,blaCTX-M-24,blaCTX-M-24_AMR,blaCTX-M-24_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-24_AMR,AMR,AMR,AMR,3 (0.3),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-24,AMR,,False
+104,blaCTX-M-27,blaCTX-M-27,blaCTX-M-27,blaCTX-M-27_AMR,blaCTX-M-27_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-27_AMR,AMR,AMR,AMR,109 (12.3),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-27,AMR,blaCTXM27_AMR,True
+105,blaCTX-M-55,blaCTX-M-55,blaCTX-M-55,blaCTX-M-55_AMR,blaCTX-M-55_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaCTX-M-55_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase CTX-M-55,AMR,,False
+106,blaDHA,blaDHA,blaDHA-1,blaDHA_AMR,blaDHA-1_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaDHA_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),class C beta-lactamase DHA-1,AMR,,False
+107,blaEC,blaEC,blaEC,blaEC_AMR,blaEC_AMR,AMR,Beta-Lactam,Gene,blaEC_AMR,AMR,AMR,AMR,879 (99.0),Beta-Lactam,BlaEC family class C beta-lactamase (cephalosporin-hydrolyzing class C beta-lactamase EC-5),AMR,,False
+108,blaFOX-5,blaFOX-5,blaFOX-5,blaFOX-5_AMR,blaFOX-5_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaFOX-5_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),cephalosporin-hydrolyzing class C beta-lactamase FOX-5,AMR,,False
+109,blaLAP+blaSHV,blaLAP,blaLAP-1,blaLAP_AMR,blaLAP-1_AMR,AMR,Beta-Lactam,Gene,blaLAP+blaSHV_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam,class A beta-lactamase LAP-1,AMR,,False
+110,blaLAP+blaSHV,blaSHV,blaSHV-12,blaSHV_AMR,blaSHV-12_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaLAP+blaSHV_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase SHV-12,AMR,,False
+111,blaNDM+ble,blaNDM,blaNDM-1,blaNDM_AMR,blaNDM-1_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaNDM+ble_AMR,AMR,AMR,AMR,2 (0.2),Beta-Lactam (Carbapenem),subclass B1 metallo-beta-lactamase NDM-1,AMR,blaNDMble_AMR,True
+112,blaNDM+ble,blaNDM,blaNDM-5,blaNDM_AMR,blaNDM-5_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaNDM+ble_AMR,AMR,AMR,AMR,12 (1.4),Beta-Lactam (Carbapenem),subclass B1 metallo-beta-lactamase NDM-5,AMR,blaNDMble_AMR,True
+113,blaNDM+ble,blaNDM,blaNDM-7,blaNDM_AMR,blaNDM-7_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaNDM+ble_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Carbapenem),subclass B1 metallo-beta-lactamase NDM-7,AMR,blaNDMble_AMR,True
+114,blaNDM+ble,ble,ble,ble_AMR,ble_AMR,AMR,Bleomycin,Gene,blaNDM+ble_AMR,AMR,AMR,AMR,15 (1.7),Bleomycin,bleomycin binding protein Ble-MBL,AMR,blaNDMble_AMR,True
+115,blaOXA,blaOXA,blaOXA,blaOXA_AMR,blaOXA_AMR,AMR,Beta-Lactam,Gene,blaOXA_AMR,AMR,AMR,AMR,0 (0),Beta-Lactam,OXA-9 family class D beta-lactamase (oxacillin-hydrolyzing class D beta-lactamase OXA-9),AMR,,False
+116,blaOXA-CH,blaOXA-CH,blaOXA-181,blaOXA-CH_AMR,blaOXA-181_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaOXA-CH_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Carbapenem),OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-181,AMR,,False
+117,blaOXA-CH,blaOXA-CH,blaOXA-244,blaOXA-CH_AMR,blaOXA-244_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaOXA-CH_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Carbapenem),OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-244,AMR,,False
+118,blaOXA-CH,blaOXA-CH,blaOXA-48,blaOXA-CH_AMR,blaOXA-48_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaOXA-CH_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Carbapenem),OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-48,AMR,,False
+119,blaTEM-CA,blaTEM-CA,blaTEM,blaTEM-CA_AMR,blaTEM_AMR,AMR,Beta-Lactam,Gene,blaTEM-CA_AMR,AMR,AMR,AMR,9 (1.0),Beta-Lactam,TEM family class A beta-lactamase (broad-spectrum class A beta-lactamase TEM-1),AMR,blaTEMCA_AMR,True
+120,blaTEM-CA,blaTEM-CA,blaTEM-1,blaTEM-CA_AMR,blaTEM-1_AMR,AMR,Beta-Lactam,Gene,blaTEM-CA_AMR,AMR,AMR,AMR,383 (43.1),Beta-Lactam,broad-spectrum class A beta-lactamase TEM-1,AMR,blaTEMCA_AMR,True
+121,blaTEM-CA,blaTEM-CA,blaTEM-156,blaTEM-CA_AMR,blaTEM-156_AMR,AMR,Beta-Lactam,Gene,blaTEM-CA_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam,class A beta-lactamase TEM-156,AMR,blaTEMCA_AMR,True
+122,blaTEM-CA,blaTEM-CA,blaTEM-176,blaTEM-CA_AMR,blaTEM-176_AMR,AMR,Beta-Lactam,Gene,blaTEM-CA_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam,class A beta-lactamase TEM-176,AMR,blaTEMCA_AMR,True
+123,blaTEM-ES,blaTEM-ES,blaTEM-12,blaTEM-ES_AMR,blaTEM-12_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaTEM-ES_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase TEM-12,AMR,,False
+124,blaTEM-ES,blaTEM-ES,blaTEM-19,blaTEM-ES_AMR,blaTEM-19_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaTEM-ES_AMR,AMR,AMR,AMR,2 (0.2),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase TEM-19,AMR,,False
+125,blaTEM-ES,blaTEM-ES,blaTEM-29,blaTEM-ES_AMR,blaTEM-29_AMR,AMR,Beta-Lactam (Cephalosporin),Gene,blaTEM-ES_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam (Cephalosporin),extended-spectrum class A beta-lactamase TEM-29,AMR,,False
+126,blaTEM-IR,blaTEM-IR,blaTEM-30,blaTEM-IR_AMR,blaTEM-30_AMR,AMR,Beta-Lactam,Gene,blaTEM-IR_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam,inhibitor-resistant broad-spectrum class A beta-lactamase TEM-30,AMR,blaTEMIR_AMR,True
+127,blaTEM-IR,blaTEM-IR,blaTEM-31,blaTEM-IR_AMR,blaTEM-31_AMR,AMR,Beta-Lactam,Gene,blaTEM-IR_AMR,AMR,AMR,AMR,4 (0.5),Beta-Lactam,inhibitor-resistant broad-spectrum class A beta-lactamase TEM-31,AMR,blaTEMIR_AMR,True
+128,blaTEM-IR,blaTEM-IR,blaTEM-34,blaTEM-IR_AMR,blaTEM-34_AMR,AMR,Beta-Lactam,Gene,blaTEM-IR_AMR,AMR,AMR,AMR,1 (0.1),Beta-Lactam,inhibitor-resistant broad-spectrum class A beta-lactamase TEM-34,AMR,blaTEMIR_AMR,True
+129,blaTEM-IR,blaTEM-IR,blaTEM-40,blaTEM-IR_AMR,blaTEM-40_AMR,AMR,Beta-Lactam,Gene,blaTEM-IR_AMR,AMR,AMR,AMR,2 (0.2),Beta-Lactam,inhibitor-resistant broad-spectrum class A beta-lactamase TEM-40,AMR,blaTEMIR_AMR,True
+130,blaVIM,blaVIM,blaVIM-1,blaVIM_AMR,blaVIM-1_AMR,AMR,Beta-Lactam (Carbapenem),Gene,blaVIM_AMR,AMR,AMR,AMR,2 (0.2),Beta-Lactam (Carbapenem),subclass B1 metallo-beta-lactamase VIM-1,AMR,,False
+131,capU,capU,capU,capU_VIR,capU_VIR,Virulence,,,capU_VIR,Virulence,VIR,VIR,3 (0.3),,putative hexosyltransferase CapU,Virulence,,False
+132,catA,catA,catA1,catA_AMR,catA1_AMR,AMR,Phenicol (Chloramphenicol),Gene,catA_AMR,AMR,AMR,AMR,8 (0.9),Phenicol (Chloramphenicol),type A-1 chloramphenicol O-acetyltransferase,AMR,catA_AMR,True
+133,catA,catA,catA2,catA_AMR,catA2_AMR,AMR,Phenicol (Chloramphenicol),Gene,catA_AMR,AMR,AMR,AMR,3 (0.3),Phenicol (Chloramphenicol),type A-2 chloramphenicol O-acetyltransferase CatII,AMR,catA_AMR,True
+134,catB,catB,catB11,catB_AMR,catB11_AMR,AMR,Phenicol (Chloramphenicol),Gene,catB_AMR,AMR,AMR,AMR,2 (0.2),Phenicol (Chloramphenicol),type B-2 chloramphenicol O-acetyltransferase CatB11,AMR,catB_AMR,True
+135,catB,catB,catB3,catB_AMR,catB3_AMR,AMR,Phenicol (Chloramphenicol),Gene,catB_AMR,AMR,AMR,AMR,11 (1.2),Phenicol (Chloramphenicol),type B-3 chloramphenicol O-acetyltransferase CatB3,AMR,catB_AMR,True
+136,cdtB,cdtB,cdtB,cdtB_VIR,cdtB_VIR,Virulence,,,cdtB_VIR,Virulence,VIR,VIR,3 (0.3),,cytolethal distending toxin type I nuclease subunit CdtB,Virulence,,False
+137,cmlA,cmlA,cmlA,cmlA_AMR,cmlA_AMR,AMR,Phenicol (Chloramphenicol),Gene,cmlA_AMR,AMR,AMR,AMR,2 (0.2),Phenicol (Chloramphenicol),CmlA family chloramphenicol efflux MFS transporter (chloramphenicol efflux MFS transporter CmlA6),AMR,cmlA_AMR,True
+138,cmlA,cmlA,cmlA1,cmlA_AMR,cmlA1_AMR,AMR,Phenicol (Chloramphenicol),Gene,cmlA_AMR,AMR,AMR,AMR,1 (0.1),Phenicol (Chloramphenicol),chloramphenicol efflux MFS transporter CmlA1,AMR,cmlA_AMR,True
+139,cmlA,cmlA,cmlA5,cmlA_AMR,cmlA5_AMR,AMR,Phenicol (Chloramphenicol),Gene,cmlA_AMR,AMR,AMR,AMR,2 (0.2),Phenicol (Chloramphenicol),chloramphenicol efflux MFS transporter CmlA5,AMR,cmlA_AMR,True
+140,cmlA,cmlA,cmlA6,cmlA_AMR,cmlA6_AMR,AMR,Phenicol (Chloramphenicol),Gene,cmlA_AMR,AMR,AMR,AMR,2 (0.2),Phenicol (Chloramphenicol),chloramphenicol efflux MFS transporter CmlA6,AMR,cmlA_AMR,True
+141,cnf1,cnf1,cnf1,cnf1_VIR,cnf1_VIR,Virulence,,,cnf1_VIR,Virulence,VIR,VIR,161 (18.1),,cytotoxic necrotizing factor CNF1,Virulence,cnf1_VIR,True
+142,cvaC,cvaC,cvaC,cvaC_VIR,cvaC_VIR,Virulence,,,cvaC_VIR,Virulence,VIR,VIR,14 (1.6),,colicin V,Virulence,cvaC_VIR,True
+143,dfrA,dfrA,dfrA1,dfrA_AMR,dfrA1_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,12 (1.4),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA1,AMR,dfrA_AMR,True
+144,dfrA,dfrA,dfrA12,dfrA_AMR,dfrA12_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,74 (8.3),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA12,AMR,dfrA_AMR,True
+145,dfrA,dfrA,dfrA14,dfrA_AMR,dfrA14_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,26 (2.9),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA14,AMR,dfrA_AMR,True
+146,dfrA,dfrA,dfrA15,dfrA_AMR,dfrA15_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,1 (0.1),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA15,AMR,dfrA_AMR,True
+147,dfrA,dfrA,dfrA17,dfrA_AMR,dfrA17_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,424 (47.7),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA17,AMR,dfrA_AMR,True
+148,dfrA,dfrA,dfrA19,dfrA_AMR,dfrA19_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,3 (0.3),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA19,AMR,dfrA_AMR,True
+149,dfrA,dfrA,dfrA25,dfrA_AMR,dfrA25_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,2 (0.2),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA25,AMR,dfrA_AMR,True
+150,dfrA,dfrA,dfrA27,dfrA_AMR,dfrA27_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,2 (0.2),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA27,AMR,dfrA_AMR,True
+151,dfrA,dfrA,dfrA5,dfrA_AMR,dfrA5_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,5 (0.6),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA5,AMR,dfrA_AMR,True
+152,dfrA,dfrA,dfrA8,dfrA_AMR,dfrA8_AMR,AMR,Trimethoprim,Gene,dfrA_AMR,AMR,AMR,AMR,4 (0.5),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrA8,AMR,dfrA_AMR,True
+153,dfrB,dfrB,dfrB4,dfrB_AMR,dfrB4_AMR,AMR,Trimethoprim,Gene,dfrB_AMR,AMR,AMR,AMR,1 (0.1),Trimethoprim,trimethoprim-resistant dihydrofolate reductase DfrB4,AMR,,False
+154,emrD,emrD,emrD,emrD_AMR,emrD_AMR,AMR,Efflux,Gene,emrD_AMR,AMR,AMR,AMR,882 (99.3),Efflux,multidrug efflux MFS transporter EmrD,AMR,,False
+155,emrE,emrE,emrE,emrE_STRESS,emrE_STRESS,Stress,Efflux,Biocide,emrE_STRESS,Stress,STRESS,STRESS,875 (98.5),Efflux,multidrug efflux SMR transporter EmrE,Stress (Biocide),emrE_STRESS,True
+156,erm(B),erm(B),erm(B),erm(B)_AMR,erm(B)_AMR,AMR,Macrolide,Gene,erm(B)_AMR,AMR,AMR,AMR,15 (1.7),Macrolide,23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B),AMR,ermB_AMR,True
+157,espX1,espX1,espX1,espX1_VIR,espX1_VIR,Virulence,,,espX1_VIR,Virulence,VIR,VIR,1 (0.1),,type III secretion system effector EspX1,Virulence,,False
+158,fdeC,fdeC,fdeC,fdeC_VIR,fdeC_VIR,Virulence,,,fdeC_VIR,Virulence,VIR,VIR,865 (97.4),,intimin-like adhesin FdeC,Virulence,fdeC_VIR,True
+159,floR,floR,floR,floR_AMR,floR_AMR,AMR,Phenicol (Chloramphenicol/Florfenicol),Gene,floR_AMR,AMR,AMR,AMR,4 (0.5),Phenicol (Chloramphenicol/Florfenicol),chloramphenicol/florfenicol efflux MFS transporter FloR,AMR,,False
+160,focG,focG,focG,focG_VIR,focG_VIR,Virulence,,,focG_VIR,Virulence,VIR,VIR,4 (0.5),,F1C fimbria minor subunit FocG,Virulence,,False
+161,glpT-E448K,glpT-E448K,glpT_E448K,glpT-E448K_AMR,glpT_E448K_AMR,AMR,Fosfomycin,Point,glpT-E448K_AMR,AMR,AMR,AMR,874 (98.4),Fosfomycin,Escherichia fosfomycin resistant GlpT (glycerol-3-phosphate transporter GlpT),AMR (Point),glpTE448K_AMR,True
+162,gyrA-D87N+parC-S80I,gyrA-D87N,gyrA_D87N,gyrA-D87N_AMR,gyrA_D87N_AMR,AMR,Quinolone,Point,gyrA-D87N+parC-S80I_AMR,AMR,AMR,AMR,686 (77.3),Quinolone,Escherichia quinolone resistant GyrA (DNA gyrase subunit A GyrA),AMR (Point),gyrAD87NparCS80I_AMR,True
+163,gyrA-D87N+parC-S80I,parC-S80I,parC_S80I,parC-S80I_AMR,parC_S80I_AMR,AMR,Quinolone,Point,gyrA-D87N+parC-S80I_AMR,AMR,AMR,AMR,687 (77.4),Quinolone,Escherichia quinolone resistant ParC (DNA topoisomerase IV subunit A ParC),AMR (Point),gyrAD87NparCS80I_AMR,True
+164,gyrA-S83L,gyrA-S83L,gyrA_S83L,gyrA-S83L_AMR,gyrA_S83L_AMR,AMR,Quinolone,Point,gyrA-S83L_AMR,AMR,AMR,AMR,776 (87.4),Quinolone,Escherichia quinolone resistant GyrA (DNA gyrase subunit A GyrA),AMR (Point),gyrAS83L_AMR,True
+165,hlyA-alpha,hlyA-alpha,hlyA-alpha,hlyA-alpha_VIR,hlyA-alpha_VIR,Virulence,,,hlyA-alpha_VIR,Virulence,VIR,VIR,179 (20.2),,RTX toxin hemolysin HlyA,Virulence,hlyAalpha_VIR,True
+166,ibeA,ibeA,ibeA,ibeA_VIR,ibeA_VIR,Virulence,,,ibeA_VIR,Virulence,VIR,VIR,41 (4.6),,putative intracellular survival FAD-dependent oxidoreductase IbeA,Virulence,ibeA_VIR,True
+167,iha,iha,iha,iha_VIR,iha_VIR,Virulence,,,iha_VIR,Virulence,VIR,VIR,781 (88.0),,bifunctional siderophore receptor/adhesin Iha,Virulence,iha_VIR,True
+168,ireA,ireA,ireA,ireA_VIR,ireA_VIR,Virulence,,,ireA_VIR,Virulence,VIR,VIR,7 (0.8),,TonB-dependent siderophore receptor IreA,Virulence,ireA_VIR,True
+169,iroBCDEN,iroBCDEN,iroB,iroBCDEN_VIR,iroB_VIR,Virulence,,,iroBCDEN_VIR,Virulence,VIR,VIR,17 (1.9),,salmochelin biosynthesis C-glycosyltransferase IroB,Virulence,iroBCDEN_VIR,True
+170,iroBCDEN,iroBCDEN,iroC,iroBCDEN_VIR,iroC_VIR,Virulence,,,iroBCDEN_VIR,Virulence,VIR,VIR,17 (1.9),,salmochelin/enterobactin export ABC transporter IroC,Virulence,iroBCDEN_VIR,True
+171,iroBCDEN,iroBCDEN,iroD,iroBCDEN_VIR,iroD_VIR,Virulence,,,iroBCDEN_VIR,Virulence,VIR,VIR,20 (2.3),,catecholate siderophore esterase IroD,Virulence,iroBCDEN_VIR,True
+172,iroBCDEN,iroBCDEN,iroE,iroBCDEN_VIR,iroE_VIR,Virulence,,,iroBCDEN_VIR,Virulence,VIR,VIR,17 (1.9),,catecholate siderophore esterase IroE,Virulence,iroBCDEN_VIR,True
+173,iroBCDEN,iroBCDEN,iroN,iroBCDEN_VIR,iroN_VIR,Virulence,,,iroBCDEN_VIR,Virulence,VIR,VIR,16 (1.8),,siderophore salmochelin receptor IroN,Virulence,iroBCDEN_VIR,True
+174,iss,iss,iss,iss_VIR,iss_VIR,Virulence,,,iss_VIR,Virulence,VIR,VIR,736 (82.9),,increased serum survival lipoprotein Iss,Virulence,iss_VIR,True
+175,iucABCD,iucABCD,iucA,iucABCD_VIR,iucA_VIR,Virulence,,,iucABCD_VIR,Virulence,VIR,VIR,801 (90.2),,aerobactin synthase IucA,Virulence,iucABCD_VIR,True
+176,iucABCD,iucABCD,iucB,iucABCD_VIR,iucB_VIR,Virulence,,,iucABCD_VIR,Virulence,VIR,VIR,802 (90.3),,N(6)-hydroxylysine O-acetyltransferase IucB,Virulence,iucABCD_VIR,True
+177,iucABCD,iucABCD,iucC,iucABCD_VIR,iucC_VIR,Virulence,,,iucABCD_VIR,Virulence,VIR,VIR,788 (88.7),,NIS family aerobactin synthetase IucC,Virulence,iucABCD_VIR,True
+178,iucABCD,iucABCD,iucD,iucABCD_VIR,iucD_VIR,Virulence,,,iucABCD_VIR,Virulence,VIR,VIR,756 (85.1),,NADPH-dependent L-lysine N(6)-monooxygenase IucD,Virulence,iucABCD_VIR,True
+179,iutA,iutA,iutA,iutA_VIR,iutA_VIR,Virulence,,,iutA_VIR,Virulence,VIR,VIR,14 (1.6),,ferric aerobactin receptor IutA,Virulence,iutA_VIR,True
+180,kefB+psi-GI+trxLHR,kefB,kefB-GI,kefB_STRESS,kefB-GI_STRESS,Stress,,Heat,kefB+psi-GI+trxLHR_STRESS,Stress,STRESS,STRESS,10 (1.1),,heat resistance system K+/H+ antiporter KefB-GI,Stress (Heat),kefBpsiGItrxLHR_STRESS,True
+181,kefB+psi-GI+trxLHR,psi-GI,psi-GI,psi-GI_STRESS,psi-GI_STRESS,Stress,,Heat,kefB+psi-GI+trxLHR_STRESS,Stress,STRESS,STRESS,10 (1.1),,heat resistance protein PsiE-GI,Stress (Heat),kefBpsiGItrxLHR_STRESS,True
+182,kefB+psi-GI+trxLHR,trxLHR,trxLHR,trxLHR_STRESS,trxLHR_STRESS,Stress,,Heat,kefB+psi-GI+trxLHR_STRESS,Stress,STRESS,STRESS,10 (1.1),,heat resistance system thioredoxin Trx-GI,Stress (Heat),kefBpsiGItrxLHR_STRESS,True
+183,lnu(F)+qacL,lnu(F),lnu(F),lnu(F)_AMR,lnu(F)_AMR,AMR,Lincosamide,Gene,lnu(F)+qacL_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,1 (0.1),Lincosamide,lincosamide nucleotidyltransferase Lnu(F),AMR,,False
+184,lnu(F)+qacL,qacL,qacL,qacL_STRESS,qacL_STRESS,Stress,Quaternary Ammonium,Biocide,lnu(F)+qacL_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Quaternary Ammonium,quaternary ammonium compound efflux SMR transporter QacL,Stress (Biocide),,False
+185,marR-R77C,marR-R77C,marR_R77C,marR-R77C_AMR,marR_R77C_AMR,AMR,Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Point,marR-R77C_AMR,AMR,AMR,AMR,1 (0.1),Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Escherichia ampicillin/chloramphenicol/quinolone/rifampin/tetracycline resistant MarR (transcriptional regulator MarR),AMR (Point),,False
+186,marR-R94H,marR-R94H,marR_R94H,marR-R94H_AMR,marR_R94H_AMR,AMR,Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Point,marR-R94H_AMR,AMR,AMR,AMR,1 (0.1),Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Escherichia ampicillin/chloramphenicol/quinolone/rifampin/tetracycline resistant MarR (transcriptional regulator MarR),AMR (Point),,False
+187,mchB,mchB,mchB,mchB_VIR,mchB_VIR,Virulence,,,mchB_VIR,Virulence,VIR,VIR,2 (0.2),,microcin H47,Virulence,,False
+188,mchF,mchF,mchF,mchF_VIR,mchF_VIR,Virulence,,,mchF_VIR,Virulence,VIR,VIR,16 (1.8),,microcin H47 export transporter peptidase/ATP-binding subunit MchF,Virulence,mchF_VIR,True
+189,mcr+merB+terW+terZ,mcr,mcr-9,mcr_AMR,mcr-9_AMR,AMR,Colistin,Gene,mcr+merB+terW+terZ_AMR/STRESS,AMR/Stress,AMR,AMR/STRESS,1 (0.1),Colistin,MCR-9 family phosphoethanolamine--lipid A transferase (phosphoethanolamine--lipid A transferase MCR-9.1),AMR,,False
+190,mcr+merB+terW+terZ,merB,merB,merB_STRESS,merB_STRESS,Stress,Mercury (Organomercury),Metal,mcr+merB+terW+terZ_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Mercury (Organomercury),organomercurial lyase MerB,Stress (Metal),,False
+191,mcr+merB+terW+terZ,terW,terW,terW_STRESS,terW_STRESS,Stress,Tellurium,Metal,mcr+merB+terW+terZ_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Tellurium,tellurium resistance protein TerW,Stress (Metal),,False
+192,mcr+merB+terW+terZ,terZ,terZ,terZ_STRESS,terZ_STRESS,Stress,Tellurium,Metal,mcr+merB+terW+terZ_AMR/STRESS,AMR/Stress,STRESS,AMR/STRESS,1 (0.1),Tellurium,tellurium resistance-associated protein TerZ,Stress (Metal),,False
+193,mdtM,mdtM,mdtM,mdtM_AMR,mdtM_AMR,AMR,Efflux,Gene,mdtM_AMR,AMR,AMR,AMR,820 (92.3),Efflux,multidrug efflux MFS transporter MdtM,AMR,mdtM_AMR,True
+194,merA,merA,merA,merA_STRESS,merA_STRESS,Stress,Mercury,Metal,merA_STRESS,Stress,STRESS,STRESS,1 (0.1),Mercury,mercury(II) reductase,Stress (Metal),,False
+195,merCPRT,merCPRT,merC,merCPRT_STRESS,merC_STRESS,Stress,Mercury (Organomercury),Metal,merCPRT_STRESS,Stress,STRESS,STRESS,58 (6.5),Mercury (Organomercury),organomercurial transporter MerC,Stress (Metal),merCPRT_STRESS,True
+196,merCPRT,merCPRT,merP,merCPRT_STRESS,merP_STRESS,Stress,Mercury (Organomercury),Metal,merCPRT_STRESS,Stress,STRESS,STRESS,49 (5.5),Mercury,mercury resistance system periplasmic binding protein MerP,Stress (Metal),merCPRT_STRESS,True
+197,merCPRT,merCPRT,merR,merCPRT_STRESS,merR_STRESS,Stress,Mercury (Organomercury),Metal,merCPRT_STRESS,Stress,STRESS,STRESS,64 (7.2),Mercury,mercury resistance transcriptional regulator MerR,Stress (Metal),merCPRT_STRESS,True
+198,merCPRT,merCPRT,merT,merCPRT_STRESS,merT_STRESS,Stress,Mercury (Organomercury),Metal,merCPRT_STRESS,Stress,STRESS,STRESS,56 (6.3),Mercury,mercuric transport protein MerT,Stress (Metal),merCPRT_STRESS,True
+199,merD,merD,merD,merD_STRESS,merD_STRESS,Stress,Mercury,Metal,merD_STRESS,Stress,STRESS,STRESS,3 (0.3),Mercury,mercury resistance co-regulator MerD,Stress (Metal),,False
+200,merE,merE,merE,merE_STRESS,merE_STRESS,Stress,Mercury,Metal,merE_STRESS,Stress,STRESS,STRESS,2 (0.2),Mercury,broad-spectrum mercury transporter MerE,Stress (Metal),,False
+201,mph(A),mph(A),mph(A),mph(A)_AMR,mph(A)_AMR,AMR,Macrolide,Gene,mph(A)_AMR,AMR,AMR,AMR,480 (54.1),Macrolide,Mph(A) family macrolide 2'-phosphotransferase,AMR,mphA_AMR,True
+202,ncr,ncr,ncrA,ncr_STRESS,ncrA_STRESS,Stress,Nickel,Metal,ncr_STRESS,Stress,STRESS,STRESS,2 (0.2),Nickel,Metal Resistance,Stress (Metal),,False
+203,ncr,ncr,ncrB,ncr_STRESS,ncrB_STRESS,Stress,Nickel,Metal,ncr_STRESS,Stress,STRESS,STRESS,2 (0.2),Nickel,nickel-sensing transcriptional repressor NcrB,Stress (Metal),,False
+204,ncr,ncr,ncrC,ncr_STRESS,ncrC_STRESS,Stress,Nickel,Metal,ncr_STRESS,Stress,STRESS,STRESS,2 (0.2),Copper/Nickel,Ni(II)/Co(II) efflux transporter permease subunit NcrC,Stress (Metal),,False
+205,ncr,ncr,ncrY,ncr_STRESS,ncrY_STRESS,Stress,Nickel,Metal,ncr_STRESS,Stress,STRESS,STRESS,1 (0.1),Nickel,nickel resistance OB fold protein NcrY,Stress (Metal),,False
+206,nfsA-R15C,nfsA-R15C,nfsA_R15C,nfsA-R15C_AMR,nfsA_R15C_AMR,AMR,Nitrofuran (Nitrofurantoin),Point,nfsA-R15C_AMR,AMR,AMR,AMR,1 (0.1),Nitrofuran (Nitrofurantoin),Escherichia nitrofurantoin resistant NfsA (nitroreductase NfsA),AMR (Point),,False
+207,nfsA-R203C,nfsA-R203C,nfsA_R203C,nfsA-R203C_AMR,nfsA_R203C_AMR,AMR,Nitrofuran (Nitrofurantoin),Point,nfsA-R203C_AMR,AMR,AMR,AMR,2 (0.2),Nitrofuran (Nitrofurantoin),Escherichia nitrofurantoin resistant NfsA (nitroreductase NfsA),AMR (Point),,False
+208,p0111,p0111,p0111,p0111_PLASMID,p0111_PLASMID,Plasmid,,,p0111_PLASMID,Plasmid,PLASMID,PLASMID,6 (0.7),,,,p0111_PLASMID,True
+209,pKPC,pKPC,pKPC-CAV1193,pKPC_PLASMID,pKPC-CAV1193_PLASMID,Plasmid,,,pKPC_PLASMID,Plasmid,PLASMID,PLASMID,3 (0.3),,,,,False
+210,papA,papA,papA,papA_VIR,papA_VIR,Virulence,,,papA_VIR,Virulence,VIR,VIR,23 (2.6),,P fimbria major subunit PapA,Virulence,papA_VIR,True
+211,papCFGII,papCFGII,papC,papCFGII_VIR,papC_VIR,Virulence,,,papCFGII_VIR,Virulence,VIR,VIR,249 (28.0),,P fimbrial usher protein PapC,Virulence,papCFGII_VIR,True
+212,papCFGII,papCFGII,papF,papCFGII_VIR,papF_VIR,Virulence,,,papCFGII_VIR,Virulence,VIR,VIR,252 (28.4),,P fimbrial tip protein PapF,Virulence,papCFGII_VIR,True
+213,papCFGII,papCFGII,papG-II,papCFGII_VIR,papG-II_VIR,Virulence,,,papCFGII_VIR,Virulence,VIR,VIR,249 (28.0),,P fimbria tip G-adhesin PapG-II,Virulence,papCFGII_VIR,True
+214,papE,papE,papE,papE_VIR,papE_VIR,Virulence,,,papE_VIR,Virulence,VIR,VIR,36 (4.1),,P fimbrial minor subunit PapE,Virulence,papE_VIR,True
+215,papG-III,papG-III,papG-III,papG-III_VIR,papG-III_VIR,Virulence,,,papG-III_VIR,Virulence,VIR,VIR,2 (0.2),,P fimbria tip G-adhesin PapG-III,Virulence,,False
+216,papH,papH,papH,papH_VIR,papH_VIR,Virulence,,,papH_VIR,Virulence,VIR,VIR,54 (6.1),,P fimbrial minor subunit PapH,Virulence,papH_VIR,True
+217,parC-A56T,parC-A56T,parC_A56T,parC-A56T_AMR,parC_A56T_AMR,AMR,Quinolone,Point,parC-A56T_AMR,AMR,AMR,AMR,1 (0.1),Quinolone,Escherichia quinolone resistant ParC (DNA topoisomerase IV subunit A ParC),AMR (Point),,False
+218,parC-E84V,parC-E84V,parC_E84V,parC-E84V_AMR,parC_E84V_AMR,AMR,Quinolone,Point,parC-E84V_AMR,AMR,AMR,AMR,661 (74.4),Quinolone,Escherichia quinolone resistant ParC (DNA topoisomerase IV subunit A ParC),AMR (Point),parCE84V_AMR,True
+219,parC-S57T,parC-S57T,parC_S57T,parC-S57T_AMR,parC_S57T_AMR,AMR,Quinolone,Point,parC-S57T_AMR,AMR,AMR,AMR,2 (0.2),Quinolone,Escherichia quinolone resistant ParC (DNA topoisomerase IV subunit A ParC),AMR (Point),,False
+220,parC-S80R,parC-S80R,parC_S80R,parC-S80R_AMR,parC_S80R_AMR,AMR,Quinolone,Point,parC-S80R_AMR,AMR,AMR,AMR,6 (0.7),Quinolone,Escherichia quinolone resistant ParC (DNA topoisomerase IV subunit A ParC),AMR (Point),parCS80R_AMR,True
+221,parE-E460D,parE-E460D,parE_E460D,parE-E460D_AMR,parE_E460D_AMR,AMR,Quinolone,Point,parE-E460D_AMR,AMR,AMR,AMR,8 (0.9),Quinolone,Escherichia quinolone resistant ParE (DNA topoisomerase IV subunit B ParE),AMR (Point),parEE460D_AMR,True
+222,parE-I529L,parE-I529L,parE_I529L,parE-I529L_AMR,parE_I529L_AMR,AMR,Quinolone,Point,parE-I529L_AMR,AMR,AMR,AMR,840 (94.6),Quinolone,Escherichia quinolone resistant ParE (DNA topoisomerase IV subunit B ParE),AMR (Point),parEI529L_AMR,True
+223,parE-L445H,parE-L445H,parE_L445H,parE-L445H_AMR,parE_L445H_AMR,AMR,Quinolone,Point,parE-L445H_AMR,AMR,AMR,AMR,17 (1.9),Quinolone,Escherichia quinolone resistant ParE (DNA topoisomerase IV subunit B ParE),AMR (Point),parEL445H_AMR,True
+224,pcoABCDERS+sil,pcoABCDERS,pcoA,pcoABCDERS_STRESS,pcoA_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,multicopper oxidase PcoA,Stress (Metal),,False
+225,pcoABCDERS+sil,pcoABCDERS,pcoB,pcoABCDERS_STRESS,pcoB_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,copper-binding protein PcoB,Stress (Metal),,False
+226,pcoABCDERS+sil,pcoABCDERS,pcoC,pcoABCDERS_STRESS,pcoC_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,copper resistance system metallochaperone PcoC,Stress (Metal),,False
+227,pcoABCDERS+sil,pcoABCDERS,pcoD,pcoABCDERS_STRESS,pcoD_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,copper resistance inner membrane protein PcoD,Stress (Metal),,False
+228,pcoABCDERS+sil,pcoABCDERS,pcoE,pcoABCDERS_STRESS,pcoE_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,copper resistance system metallochaperone PcoE,Stress (Metal),,False
+229,pcoABCDERS+sil,pcoABCDERS,pcoR,pcoABCDERS_STRESS,pcoR_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,copper response regulator transcription factor PcoR,Stress (Metal),,False
+230,pcoABCDERS+sil,pcoABCDERS,pcoS,pcoABCDERS_STRESS,pcoS_STRESS,Stress,Copper,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper,copper resistance membrane spanning protein PcoS,Stress (Metal),,False
+231,pcoABCDERS+sil,sil,silA,sil_STRESS,silA_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper/Silver,Cu(+)/Ag(+) efflux RND transporter permease subunit SilA,Stress (Metal),,False
+232,pcoABCDERS+sil,sil,silB,sil_STRESS,silB_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper/Silver,Cu(+)/Ag(+) efflux RND transporter periplasmic adaptor subunit SilB,Stress (Metal),,False
+233,pcoABCDERS+sil,sil,silC,sil_STRESS,silC_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper/Silver,Cu(+)/Ag(+) efflux RND transporter outer membrane channel SilC,Stress (Metal),,False
+234,pcoABCDERS+sil,sil,silE,sil_STRESS,silE_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Silver,silver-binding protein SilE,Stress (Metal),,False
+235,pcoABCDERS+sil,sil,silF,sil_STRESS,silF_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper/Silver,Cu(+)/Ag(+) efflux RND transporter periplasmic metallochaperone SilF,Stress (Metal),,False
+236,pcoABCDERS+sil,sil,silP,sil_STRESS,silP_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Silver,Ag(+)-translocating P-type ATPase SilP,Stress (Metal),,False
+237,pcoABCDERS+sil,sil,silR,sil_STRESS,silR_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper/Silver,copper/silver response regulator transcription factor SilR,Stress (Metal),,False
+238,pcoABCDERS+sil,sil,silS,sil_STRESS,silS_STRESS,Stress,Copper/Silver,Metal,pcoABCDERS+sil_STRESS,Stress,STRESS,STRESS,3 (0.3),Copper/Silver,copper/silver sensor histidine kinase SilS,Stress (Metal),,False
+239,pmrB-E123D,pmrB-E123D,pmrB_E123D,pmrB-E123D_AMR,pmrB_E123D_AMR,AMR,Colistin,Point,pmrB-E123D_AMR,AMR,AMR,AMR,879 (99.0),Colistin,Escherichia colistin resistant PmrB (two-component system sensor histidine kinase PmrB),AMR (Point),,False
+240,pmrB-G206D,pmrB-G206D,pmrB_G206D,pmrB-G206D_AMR,pmrB_G206D_AMR,AMR,Colistin,Point,pmrB-G206D_AMR,AMR,AMR,AMR,2 (0.2),Colistin,Escherichia colistin resistant PmrB (two-component system sensor histidine kinase PmrB),AMR (Point),,False
+241,pmrB-T156M,pmrB-T156M,pmrB_T156M,pmrB-T156M_AMR,pmrB_T156M_AMR,AMR,Colistin,Point,pmrB-T156M_AMR,AMR,AMR,AMR,1 (0.1),Colistin,Escherichia colistin resistant PmrB (two-component system sensor histidine kinase PmrB),AMR (Point),,False
+242,pmrB-V161G,pmrB-V161G,pmrB_V161G,pmrB-V161G_AMR,pmrB_V161G_AMR,AMR,Colistin,Point,pmrB-V161G_AMR,AMR,AMR,AMR,4 (0.5),Colistin,Escherichia colistin resistant PmrB (two-component system sensor histidine kinase PmrB),AMR (Point),,False
+243,ptsI-V25I,ptsI-V25I,ptsI_V25I,ptsI-V25I_AMR,ptsI_V25I_AMR,AMR,Fosfomycin,Point,ptsI-V25I_AMR,AMR,AMR,AMR,882 (99.3),Fosfomycin,Escherichia fosfomycin resistant PtsI (phosphoenolpyruvate--protein phosphotransferase PtsI),AMR (Point),,False
+244,qacF,qacF,qacF,qacF_STRESS,qacF_STRESS,Stress,Quaternary Ammonium,Biocide,qacF_STRESS,Stress,STRESS,STRESS,1 (0.1),Quaternary Ammonium,quaternary ammonium compound efflux SMR transporter QacF,Stress (Biocide),,False
+245,qepA4,qepA4,qepA4,qepA4_AMR,qepA4_AMR,AMR,Quinolone,Gene,qepA4_AMR,AMR,AMR,AMR,1 (0.1),Quinolone,fluoroquinolone efflux MFS transporter QepA4,AMR,,False
+246,qnrA,qnrA,qnrA1,qnrA_AMR,qnrA1_AMR,AMR,Quinolone,Gene,qnrA_AMR,AMR,AMR,AMR,1 (0.1),Quinolone,quinolone resistance pentapeptide repeat protein QnrA1,AMR,,False
+247,qnrB,qnrB,qnrB19,qnrB_AMR,qnrB19_AMR,AMR,Quinolone,Gene,qnrB_AMR,AMR,AMR,AMR,2 (0.2),Quinolone,quinolone resistance pentapeptide repeat protein QnrB19,AMR,qnrB_AMR,True
+248,qnrB,qnrB,qnrB2,qnrB_AMR,qnrB2_AMR,AMR,Quinolone,Gene,qnrB_AMR,AMR,AMR,AMR,1 (0.1),Quinolone,quinolone resistance pentapeptide repeat protein QnrB2,AMR,qnrB_AMR,True
+249,qnrB,qnrB,qnrB4,qnrB_AMR,qnrB4_AMR,AMR,Quinolone,Gene,qnrB_AMR,AMR,AMR,AMR,1 (0.1),Quinolone,quinolone resistance pentapeptide repeat protein QnrB4,AMR,qnrB_AMR,True
+250,qnrB,qnrB,qnrB6,qnrB_AMR,qnrB6_AMR,AMR,Quinolone,Gene,qnrB_AMR,AMR,AMR,AMR,1 (0.1),Quinolone,quinolone resistance pentapeptide repeat protein QnrB6,AMR,qnrB_AMR,True
+251,qnrS1,qnrS1,qnrS1,qnrS1_AMR,qnrS1_AMR,AMR,Quinolone,Gene,qnrS1_AMR,AMR,AMR,AMR,12 (1.4),Quinolone,quinolone resistance pentapeptide repeat protein QnrS1,AMR,qnrS1_AMR,True
+252,rep21,rep21,rep21,rep21_PLASMID,rep21_PLASMID,Plasmid,,,rep21_PLASMID,Plasmid,PLASMID,PLASMID,1 (0.1),,,,,False
+253,rmtB1/C,rmtB1/C,rmtB1,rmtB1/C_AMR,rmtB1_AMR,AMR,Aminoglycoside,Gene,rmtB1/C_AMR,AMR,AMR,AMR,1 (0.1),Aminoglycoside,16S rRNA (guanine(1405)-N(7))-methyltransferase RmtB1,AMR,,False
+254,rmtB1/C,rmtB1/C,rmtC,rmtB1/C_AMR,rmtC_AMR,AMR,Aminoglycoside,Gene,rmtB1/C_AMR,AMR,AMR,AMR,1 (0.1),Aminoglycoside,RmtC family 16S rRNA (guanine(1405)-N(7))-methyltransferase,AMR,,False
+255,rpoB-Q513L,rpoB-Q513L,rpoB_Q513L,rpoB-Q513L_AMR,rpoB_Q513L_AMR,AMR,Rifamycin,Point,rpoB-Q513L_AMR,AMR,AMR,AMR,3 (0.3),Rifamycin,Escherichia rifamycin resistant RpoB (DNA-directed RNA polymerase subunit beta RpoB),AMR (Point),,False
+256,sat,sat,sat,sat_VIR,sat_VIR,Virulence,,,sat_VIR,Virulence,VIR,VIR,782 (88.1),,serine protease autotransporter toxin Sat,Virulence,sat_VIR,True
+257,sat2,sat2,sat2,sat2_AMR,sat2_AMR,AMR,Streptothricin,Gene,sat2_AMR,AMR,AMR,AMR,5 (0.6),Streptothricin,streptothricin N-acetyltransferase Sat2,AMR,sat2_AMR,True
+258,senB,senB,senB,senB_VIR,senB_VIR,Virulence,,,senB_VIR,Virulence,VIR,VIR,440 (49.5),,enterotoxin production-related protein TieB,Virulence,senB_VIR,True
+259,sfaF,sfaF,sfaF,sfaF_VIR,sfaF_VIR,Virulence,,,sfaF_VIR,Virulence,VIR,VIR,7 (0.8),,S/F1C fimbrial biogenesis usher protein SfaF/FocD,Virulence,sfaF_VIR,True
+260,soxR-G121D,soxR-G121D,soxR_G121D,soxR-G121D_AMR,soxR_G121D_AMR,AMR,Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Point,soxR-G121D_AMR,AMR,AMR,AMR,3 (0.3),Multidrug (Ampicillin/Chloramphenicol/Quinolone/Rifampin/Tetracycline),Escherichia ampicillin/chloramphenicol/quinolone/rifampin/tetracycline resistant SoxR (redox-sensitive transcriptional activator SoxR),AMR (Point),,False
+261,sslE,sslE,sslE,sslE_VIR,sslE_VIR,Virulence,,,sslE_VIR,Virulence,VIR,VIR,21 (2.4),,lipoprotein metalloprotease SslE,Virulence,sslE_VIR,True
+262,sul,sul,sul1,sul_AMR,sul1_AMR,AMR,Sulfonamide,Gene,sul_AMR,AMR,AMR,AMR,511 (57.5),Sulfonamide,sulfonamide-resistant dihydropteroate synthase Sul1,AMR,sul_AMR,True
+263,sul,sul,sul2,sul_AMR,sul2_AMR,AMR,Sulfonamide,Gene,sul_AMR,AMR,AMR,AMR,282 (31.8),Sulfonamide,sulfonamide-resistant dihydropteroate synthase Sul2,AMR,sul_AMR,True
+264,sul,sul,sul3,sul_AMR,sul3_AMR,AMR,Sulfonamide,Gene,sul_AMR,AMR,AMR,AMR,0 (0),Sulfonamide,sulfonamide-resistant dihydropteroate synthase Sul3,AMR,sul_AMR,True
+265,tet,tet,tet(A),tet_AMR,tet(A)_AMR,AMR,Tetracycline,Gene,tet_AMR,AMR,AMR,AMR,443 (49.9),Tetracycline,tetracycline efflux MFS transporter Tet(A),AMR,tet_AMR,True
+266,tet,tet,tet(B),tet_AMR,tet(B)_AMR,AMR,Tetracycline,Gene,tet_AMR,AMR,AMR,AMR,20 (2.3),Tetracycline,tetracycline efflux MFS transporter Tet(B),AMR,tet_AMR,True
+267,tet,tet,tet(D),tet_AMR,tet(D)_AMR,AMR,Tetracycline,Gene,tet_AMR,AMR,AMR,AMR,2 (0.2),Tetracycline,tetracycline efflux MFS transporter Tet(D),AMR,tet_AMR,True
+268,tsh,tsh,tsh,tsh_VIR,tsh_VIR,Virulence,,,tsh_VIR,Virulence,VIR,VIR,2 (0.2),,temperature-sensitive protease autotransporter hemagglutinin Tsh,Virulence,,False
+269,uhpT-E350Q,uhpT-E350Q,uhpT_E350Q,uhpT-E350Q_AMR,uhpT_E350Q_AMR,AMR,Fosfomycin,Point,uhpT-E350Q_AMR,AMR,AMR,AMR,882 (99.3),Fosfomycin,Escherichia fosfomycin resistant UhpT (hexose phosphate transporter UhpT),AMR (Point),,False
+270,ybtPQ,ybtPQ,ybtP,ybtPQ_VIR,ybtP_VIR,Virulence,,,ybtPQ_VIR,Virulence,VIR,VIR,877 (98.8),,yersiniabactin ABC transporter ATP-binding/permease protein YbtP,Virulence,,False
+271,ybtPQ,ybtPQ,ybtQ,ybtPQ_VIR,ybtQ_VIR,Virulence,,,ybtPQ_VIR,Virulence,VIR,VIR,879 (99.0),,yersiniabactin ABC transporter ATP-binding/permease protein YbtQ,Virulence,,False
+272,ymgB,ymgB,ymgB,ymgB_STRESS,ymgB_STRESS,Stress,,Acid,ymgB_STRESS,Stress,STRESS,STRESS,861 (97.0),,biofilm/acid-resistance regulator AriR,Stress (Acid),ymgB_STRESS,True

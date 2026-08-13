@@ -1,0 +1,78 @@
+data_dir: "data_new"
+
+# -----------------------------------------------------
+# ANALYSIS NAME (directory automatically created)
+# -----------------------------------------------------
+analysis_name: "three_sampling_intervals"
+
+# -----------------------------------------------------
+# FEATURES FILES AND ORIGINAL PHYLOGENY
+# -----------------------------------------------------
+# Ancestral clade reconstruction for each branch
+clades_file: ?this["data_dir"] + "/clade_combined_ancestral_states.csv"
+
+# Original tree output of LSD, pruned of reference node, unannotated
+original_tree_file: "data/named.tree_lsd.date.noref.pruned_unannotated.nwk"
+
+# -----------------------------------------------------
+# TREE INTERVALS SETUP
+# -----------------------------------------------------
+interval_tree_name: "3_interval_tree_test_a"
+
+# To correctly date the tree
+last_sample_date: 2023
+
+# We will divide the tree into three time intervals, with changepoints at 2003 and 2013, 
+# and estimate a separate background birth rate for each
+sampling_prob_changepoints: [2003, 2013]
+
+# Additionally, we  constrains sampling on removal so that a sample has 0 sampling probability
+# outside of its BioProject sample collection window (estimated as the min and max of existing
+# samples for that BioProject). This is just a .csv file that specifies these dates as year
+# rounded to one decimal, ensuring the window starts just before the first sample and ends right
+# after the last.
+bioproject_times_file: ?this["data_dir"] + "/bioproject_times.csv"
+bioproject_changepoints: [2015.0,1985.9,1995.0,2000.0,2008.0,2009.0,2010.0,2011.8,2012.9,2012.0,2014.0,2014.8,2016.0,2017.0,2018.0,2019.7,2016.4,2018.1,2020.1,2023.1,2015.2,2019.1,2020.8,2020.0,2020.2]
+
+# -----------------------------------------------------
+# ANALYSIS PARAMETERS
+# -----------------------------------------------------
+# Whether to use full pE values (recommended if heavily time-varying)
+iterative_pE: True
+
+# Learning rate
+lr: 0.00005
+
+# Number of epochs the optimizer will run
+n_epochs: 20000
+
+# Number of threads to use simultaneously when searching for optimal hyperparameters
+n_threads: 6
+
+# -----------------------------------------------------
+# RESIDUAL FITNESS PARAMETERS AND HYPERPARAMETERS
+# -----------------------------------------------------
+residual_name: "Est-Random_Fixed-BetaSite"
+n_sigmas: 21
+sigma_start: 0
+sigma_stop: 5
+
+# -----------------------------------------------------
+# FITNESS DECOMPOSITION PARAMETERS AND HYPERPARAMETERS
+# -----------------------------------------------------
+# Length of time intervals used in decomposition 
+interval_length: 1
+
+# Can omit recent years since very few samples
+interval_cutoff: 2021
+
+# -----------------------------------------------------
+# FIGURE OUTPUT PARAMETERS
+# -----------------------------------------------------
+figures_dir: ?this["data_dir"] + "/figures"
+
+category_info_file: ?this["data_dir"] + "/group_short_name_to_display_manual.yml"
+
+fig5_categories:
+  - "AMR"
+  - "VIR"
