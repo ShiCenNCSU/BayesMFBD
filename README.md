@@ -1,6 +1,6 @@
-# PhyloJAX
+# MFBD-Bayes
 
-PhyloJAX contains JAX implementations of likelihood calculations for
+MFBD-Bayes contains JAX implementations of likelihood calculations for
 multi-type birth-death phylodynamic models on phylogenetic trees. The project
 includes model variants for feature-dependent fitness effects, random branch
 effects, global epistasis, and an E. coli ST131 analysis workflow.
