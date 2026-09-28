@@ -25,7 +25,7 @@ The recommended setup uses Conda:
 
 ```bash
 conda env create -f environment.yml
-conda activate phylojax
+conda activate MFBD-Bayes
 ```
 
 JAX installation can depend on your platform and accelerator. If Conda cannot
