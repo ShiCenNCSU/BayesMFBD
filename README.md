@@ -1,6 +1,6 @@
-# MFBD-Bayes
+# BayesMFBD
 
-MFBD-Bayes contains JAX implementations of likelihood calculations for
+BayesMFBD contains JAX implementations of likelihood calculations for
 multi-type birth-death phylodynamic models on phylogenetic trees. The project
 includes model variants for feature-dependent fitness effects, random branch
 effects, global epistasis, and an E. coli ST131 analysis workflow.
@@ -25,7 +25,7 @@ The recommended setup uses Conda:
 
 ```bash
 conda env create -f environment.yml
-conda activate MFBD-Bayes
+conda activate BayesMFBD
 ```
 
 JAX installation can depend on your platform and accelerator. If Conda cannot
