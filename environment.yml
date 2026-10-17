@@ -1,14 +1,8 @@
-name: phylojax
+name: bayesmfbd
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - scipy
-  - jax
-  - jaxlib
-  - numpyro
-  - matplotlib
-  - pandas
-  - seaborn
-  - ete3
-  - biopython
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements.txt

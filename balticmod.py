@@ -64,7 +64,7 @@ class node: ## node class
         self.y=None
         ## contains references to all tips of this node
         self.leaves=set() ## is a set of tips that are descended from it
-        
+
         "My modification:"
         self.name = None ## added this in order to be able to name internal nodes
 

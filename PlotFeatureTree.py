@@ -12,6 +12,8 @@ from pathlib import Path
 import pandas as pd
 import seaborn as sns
 
+from mutation_states import mutation_presence
+
 "Load in ancestral features as df before encoding"
 base_dir = Path(__file__).parent / 'st131-data' / 'input'
 
@@ -33,8 +35,7 @@ tree.setAbsoluteTime(absolute_time)
 # host_states = df['node'].unique()
 # host_int2label = {index:state for index, state in enumerate(host_states)}
 
-"Create state-to-integer mapping for each feature"
-max_num_states = 0
+"Encode each feature as absent (0) or present (1)"
 #features=['HOST','AA4', 'AA6', 'AA9'] # keys for features
 # features = df.columns.to_list()
 # aa_features = [f for f in features if f[:2] == 'AA']
@@ -42,22 +43,12 @@ max_num_states = 0
 features = ["gyrAS83L_AMR", "parCE84V_AMR",
          "gyrAD87NparCS80I_AMR", "parEI529L_AMR"]
 for feature in features:
-    #states = df[feature].unique()
-    f_counts = df[feature].value_counts(normalize=True)
-    states = f_counts.index.to_list() # sort states so major variant always has the same color
-    num_states = len(states)
-    if num_states > max_num_states:
-        max_num_states = num_states
-    state2int = {state:index for index, state in enumerate(states)}
-    df[feature] = df[feature].apply(lambda x: state2int[x])
-cmap = sns.color_palette("muted", max_num_states) #mpl.cm.get_cmap('tab10', 10)
-# cmap[1] = "yellow"
-cmap[0] = "#F0E442"
-cmap[1] = "#4878D0"
+    df[feature] = df[feature].apply(mutation_presence)
+cmap = ["lightgrey", "#E64B35"]  # absent, present
 
 #fig,ax = plt.subplots(figsize=(20,20),facecolor='w')
 # fig = plt.subplots(figsize=(7,20),facecolor='w')
-fig = plt.figure(figsize=(7,20), facecolor='w')
+fig = plt.figure(figsize=(7,13.4), facecolor='w')
 
 """
     Set up plot grid
@@ -100,7 +91,16 @@ position_func = lambda k: (1.001, k.y-0.15)
 """
     Plot features in character matrix
 """
-clean_feature_names = [feature.replace("_AMR", "") for feature in features]
+feature_label_map = {
+    "gyrAS83L_AMR": "gyrA-S83L",
+    "parCE84V_AMR": "parC-E84V",
+    "gyrAD87NparCS80I_AMR": r"gyrA-D87N\/parC-S80I",
+    "parEI529L_AMR": "parE-I529L",
+}
+clean_feature_names = [
+    feature_label_map.get(feature, feature.replace("_AMR", ""))
+    for feature in features
+]
 for k in tree.Objects: # iterate over branches
     if k.branchType=='leaf':
         for f in range(len(features)): ## iterate over trait keys
@@ -142,8 +142,3 @@ ax_genome.xaxis.set_ticks_position('top')
 
 # plt.savefig(fig_file, dpi=300)
 fig.savefig(fig_file, dpi=300)
-
-
-
-
-
