@@ -1,6 +1,6 @@
 # BayesMFBD: ST131 inference and summaries
 
-This directory contains the updated ST131 candidate-model workflow from PhyloJAX: inference, genetic-effect priors, WAIC comparison, posterior summaries, and plotting. It retains the required supporting modules and the three ST131 input files. Generated fits and figures, simulated datasets, IDE files, caches, and historical parameter dumps are excluded.
+This directory contains the ST131 candidate-model workflow: inference, genetic-effect priors, WAIC comparison, posterior summaries, and plotting. It retains the required supporting modules and the three ST131 input files. Generated fits and figures, simulated datasets, IDE files, caches, and historical parameter dumps are excluded.
 
 ## Setup
 
